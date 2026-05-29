@@ -1,0 +1,6 @@
+{
+  "name": "Mapeador de Control y Depuración Inalámbrica",
+  "description": "Una aplicación interactiva para probar controles Bluetooth, planificar el mapeo de botones para juegos móviles, simular depuración inalámbrica de Android y Shizuku, y consultar un asistente de solución de problemas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
